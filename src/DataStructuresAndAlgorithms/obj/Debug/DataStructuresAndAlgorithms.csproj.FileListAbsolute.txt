@@ -7,3 +7,6 @@ C:\MyProjects\smathigit\datastructures\src\DataStructuresAndAlgorithms\obj\Debug
 C:\Users\sarmathi\Source\Repos\datastructures\src\DataStructuresAndAlgorithms\bin\Debug\DataStructuresAndAlgorithms.exe.config
 C:\Users\sarmathi\Source\Repos\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.exe
 C:\Users\sarmathi\Source\Repos\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.pdb
+D:\gitenlist\datastructures\src\DataStructuresAndAlgorithms\bin\Debug\DataStructuresAndAlgorithms.exe.config
+D:\gitenlist\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.exe
+D:\gitenlist\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.pdb
