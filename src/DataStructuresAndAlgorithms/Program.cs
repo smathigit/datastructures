@@ -14,7 +14,7 @@ namespace DataStructuresAndAlgorithms
             IVerifyProgram program = null;
             
             // Implement 2 stacks in an array
-            // comment 4.1
+            // comment 4.2
             program = new Implement2StacksInArray();
             program.VerifyProgram();
         }
