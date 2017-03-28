@@ -4,3 +4,6 @@ C:\MyProjects\smathigit\datastructures\src\DataStructuresAndAlgorithms\bin\Debug
 C:\MyProjects\smathigit\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.csprojResolveAssemblyReference.cache
 C:\MyProjects\smathigit\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.exe
 C:\MyProjects\smathigit\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.pdb
+C:\Users\sarmathi\Source\Repos\datastructures\src\DataStructuresAndAlgorithms\bin\Debug\DataStructuresAndAlgorithms.exe.config
+C:\Users\sarmathi\Source\Repos\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.exe
+C:\Users\sarmathi\Source\Repos\datastructures\src\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.pdb
